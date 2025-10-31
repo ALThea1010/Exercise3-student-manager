@@ -1,0 +1,8 @@
+7
+2340,Fred Smith,18,19,15,95
+1259,80,10,10,20,100
+3021,Sally Brown,20,15,17,85
+2345,Sam Sturvivant,13,15,15,77
+6578,Jo Huckleberry,16,12,14,66
+1345,John Curry,10,10,10,45
+8439,Jake Hobbs,10,11,10,43
